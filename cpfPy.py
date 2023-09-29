@@ -32,4 +32,3 @@ try:
 except ValueError:
     os.system('cls')
     print(f'Digite apenas números, sem "." ou "-"')
-
